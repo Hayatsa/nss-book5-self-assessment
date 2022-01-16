@@ -1,0 +1,18 @@
+{
+  "letters": [
+    {
+      "author": "Piper Halliwell",
+      "message": "TEST",
+      "topic": "Business",
+      "recipient": "Prue Halliwell",
+      "id": 1
+    },
+    {
+      "author": "Phoebe Halliwell",
+      "message": "TEST",
+      "topic": "Business",
+      "recipient": "Piper Halliwell",
+      "id": 2
+    }
+  ]
+}

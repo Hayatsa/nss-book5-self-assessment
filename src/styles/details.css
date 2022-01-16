@@ -1,0 +1,38 @@
+.label {
+    display: flex;
+    flex-direction: column
+}
+
+.input{
+width: 500px;
+height: 200px;
+}
+
+ul {
+    display: flex;
+    flex-direction: column
+}
+
+.div1 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+    background-color:grey;
+    padding: 1px;
+    border: 1px dotted black;
+    list-style: none
+}
+
+.letter {
+    margin-right: auto
+}
+
+select {
+    margin-right: 2rem
+
+}
+
+.radio {
+    display:inline-flexbox;
+    flex-direction: row;
+}
